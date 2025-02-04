@@ -1,6 +1,7 @@
 # XArray Task
+[Stackblitz](https://stackblitz.com/~/github.com/tsxoxo/Wedance-1-XArray)
 
-`XArray` is an array editor s
+`XArray` is an array editor 
 
 ### Acceptance criteria
 
